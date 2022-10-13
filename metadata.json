@@ -1,0 +1,9 @@
+{
+  "name": "MEMPANY TOKEN", 
+  "symbol": "MCT",
+  "uri": "https://raw.githubusercontent.com/hspy/mempany_token_img/main/token_uri.json",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
